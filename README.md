@@ -20,7 +20,7 @@ Three columns were removed during cleaning as they carried no analytical value:
 |---|---|
 | `EmployeeCount` | Constant value (1) for every record |
 | `StandardHours` | Same value (80) for every employee |
-| `Over18` | Contains only the value "Y" |
+| `Over18` | Contains only the value "Yes" |
 
 ## 🧹 Data Cleaning (Excel)
 
